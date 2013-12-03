@@ -1,0 +1,4 @@
+droidmind
+=========
+
+kod alani
